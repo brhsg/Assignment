@@ -1,0 +1,22 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Lets Upgrade</h1>
+        <h2>Html and Css</h2>
+        <div>
+            <img src="https://letsupgrade.in/_nuxt/img/logo_white.9de2fcc.png">
+        <div>
+                <img src="https://letsupgrade.in/_nuxt/img/logo_white.9de2fcc.png">
+            </div>
+        </div>
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    Name
+                </td>
+            </tr>
+        </tbody>
+
+    </body>
+</html>
