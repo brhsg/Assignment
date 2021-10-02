@@ -1,0 +1,29 @@
+<html>
+    <head>
+
+        <link rel="stylesheet" href="./s.css"/>
+    </head>
+    <body>
+        <div class="main"></div>
+        <div class="value"></div>
+
+    </body>
+</html>
+
+CSS CODE
+
+.main{
+    height: 150px;
+    width: 150px;
+    margin-top: 100px;
+    margin-left: 250px;
+    background-color: plum;
+    box-shadow: 20px 10px 10px red;
+}
+
+.value{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: royalblue;
+}
