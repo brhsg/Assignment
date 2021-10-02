@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="./s.css"/>
+ </head>
+    <body>
+      
+    
+        <div class='main'>
+            <h1 class="h1">Assignement</h1>
+            <h2 class="h2">Assignement</h2>
+            <p class="p1">Create html page with one div element having one h1 , h2 , p tags. Add different color property for h1, h2, p tags using class selectors. For div element add padding , border, background-color.
+            </p>
+            
+                <p class="p2">Create html page with one div element having one h1 , h2 , p tags. Add different color property for h1, h2, p tags using class selectors. For div element add padding , border, background-color.
+                </p>    
+
+        </div>
+        
+
+    </body>
+</html>
+
+CSS CODE
+
+.p1{
+    color: coral;
+}
+.p2{
+    color: crimson;
+}
+.h1{
+    color: cyan;
+}
+.h2{
+    color: darkgoldenrod;
+}
+.main{
+    background-color: darkred;
+    height: 400px;
+    width: 400px;
+    padding:100px;
+    border: 100px dotted chartreuse;
+
+
+}
